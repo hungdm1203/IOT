@@ -1,0 +1,22 @@
+/* src/components/FanControl.css */
+.window-control {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .window-icon {
+    width: 100px;
+    height: 100px;
+    background-image: url('../images/window-icon.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+  }
+  
+  
+  button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  

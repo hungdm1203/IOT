@@ -1,0 +1,275 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+body {
+  background-color: #f7f7fb;
+  color: #333;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; /* Thay đổi từ height thành min-height */
+  margin: 0;
+  overflow-y: auto; /* Thêm dòng này */
+}
+
+Container chung */
+ .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+
+.system {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: fixed; /* Cố định header khi cuộn */
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ưu tiên hiển thị */
+}
+
+.header-title {
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.Logout {
+  background-color: #ff4d4d; /* Màu đỏ cho nút đăng xuất */
+  color: white;
+  border: none;
+  padding: 5px 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 10px;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.body-content {
+  margin-top: 70px; /* Đẩy nội dung xuống để tránh bị header che khuất */
+}
+
+/* Dashboard bố cục các phần */
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.controls-container {
+  display: flex;
+  gap: 10px;
+}
+
+/* Card widget */
+.card {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: left;
+  margin: 0 auto;
+  background-color: #e0f7fa;
+}
+
+.card .label {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.card .sublabel {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.card .status-safe {
+  color: #27ae60;
+}
+
+.card .status-warning {
+  color: #f39c12;
+}
+
+.card .status-danger {
+  color: #e74c3c;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .dashboard {
+    flex-direction: column;
+  }
+}
+
+.auth-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.auth-container h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.auth-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.auth-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.auth-container button:hover {
+  background-color: #0056b3;
+}
+
+.auth-container .register-link {
+  display: inline-block;
+  margin-top: 15px;
+  color: #007bff;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.error-message {
+  color: red;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.GasFire {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+  gap: 20px;
+}
+
+.controls-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  gap: 20px;
+}
+
+.fan-control,
+.pump-control,
+.window-control {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  width: 250px;
+  font-size: 10px;
+  background-color: #c8e6c9;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.threshold-adjuster-container {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  text-align: center;
+  background-color: #fff9c4;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.buttonAdjust {
+  padding: 10px 15px;
+  background-color:#007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+buttonAdjust:hover {
+  background-color: #218838;
+}
+
+.fire-detection-container {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  margin: 20px 0;
+  font-size: 15px;
+}
+
+.status {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.fire {
+  color: red; /* Màu cho trạng thái có lửa */
+}
+
+.no-fire {
+  color: green; /* Màu cho trạng thái không có lửa */
+}

@@ -1,0 +1,293 @@
+{
+   "checksum": "e8d74a36f4a92738de781554eb245d56",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13376716692557533",
+            "date_last_used": "0",
+            "guid": "4a873c2f-374b-42a0-b0f1-714df4f0faab",
+            "id": "72",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13376455323032703",
+            "date_last_used": "0",
+            "guid": "18580981-7b66-4f5f-b37c-a99744619bb5",
+            "id": "69",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13376386110939737",
+            "date_last_used": "0",
+            "guid": "960f22c0-546b-4fcd-b97f-535d5a287b96",
+            "id": "66",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13376383982053356",
+            "date_last_used": "0",
+            "guid": "e62cfc28-6828-4e9a-aff9-6321648182b8",
+            "id": "63",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13376382361288173",
+            "date_last_used": "0",
+            "guid": "2f8f57f9-1202-48da-99e6-99202d63baff",
+            "id": "60",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13376368075032364",
+            "date_last_used": "0",
+            "guid": "a0c3b3b0-37c3-48c8-ab96-dbd9503a2e2d",
+            "id": "57",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13376242572547671",
+            "date_last_used": "0",
+            "guid": "a90989d4-ef01-4ed7-a583-dee4bbcf48e7",
+            "id": "54",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13376126877623886",
+            "date_last_used": "0",
+            "guid": "738d10c4-8608-496d-af14-2811c4d8e266",
+            "id": "51",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375611984169650",
+            "date_last_used": "0",
+            "guid": "0c739175-b7bc-4af1-8bd1-c2a74b033147",
+            "id": "48",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375180738637885",
+            "date_last_used": "0",
+            "guid": "42fa110d-958d-4ad5-b876-7ade1b208d26",
+            "id": "45",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375078499511041",
+            "date_last_used": "0",
+            "guid": "5bf180e5-bd24-4ce5-95fc-297257037864",
+            "id": "42",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375038867216812",
+            "date_last_used": "0",
+            "guid": "a4d95af9-9f4f-4a3b-8c32-3f3e6e01c6f4",
+            "id": "39",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375037592124239",
+            "date_last_used": "0",
+            "guid": "e21591e4-c923-4639-8067-4bb686297d1e",
+            "id": "36",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375036625848759",
+            "date_last_used": "0",
+            "guid": "f9ad8f08-e309-4f30-a966-8c19d73b06b1",
+            "id": "33",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375036448136675",
+            "date_last_used": "0",
+            "guid": "f988400b-60ae-42a9-a33c-19a535fd51da",
+            "id": "30",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375035538842116",
+            "date_last_used": "0",
+            "guid": "ebc8301d-6f5f-46cd-b59f-6e530253d3a0",
+            "id": "27",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375033013321159",
+            "date_last_used": "0",
+            "guid": "435dde86-48ee-4dc0-bc2d-8d9bf8ba2caa",
+            "id": "24",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375006791324722",
+            "date_last_used": "0",
+            "guid": "960a1a73-fa74-4197-b549-adc843f3995e",
+            "id": "21",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13375006223391953",
+            "date_last_used": "0",
+            "guid": "160e35f2-2426-42b1-a89c-a6b5c368a914",
+            "id": "18",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13374944340884230",
+            "date_last_used": "0",
+            "guid": "704913ab-5eaa-433d-9fb6-98cb61f98228",
+            "id": "15",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13374918086878984",
+            "date_last_used": "0",
+            "guid": "499b838e-117f-45ab-8b54-470c7cd97b65",
+            "id": "12",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13374917615330977",
+            "date_last_used": "0",
+            "guid": "31620ee3-e106-4127-9141-b0fd06226896",
+            "id": "9",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13374917363199024",
+            "date_last_used": "0",
+            "guid": "9786ae8c-6b0e-478f-863d-3717b4993e52",
+            "id": "6",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge",
+            "visit_count": 0
+         } ],
+         "date_added": "13374917363016584",
+         "date_last_used": "0",
+         "date_modified": "13376716692557533",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13374917363016589",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13374917363016591",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCN12fOaSAQAAEgAqGEZ0S3hOazFFZTJrUlFuVDJCaW5qbnc9PUgDoAYMEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDJlZWYwODJlLTU0ZjEtNTYwNy1iYzkyLWM1ZWU1ZjAzZDA1ZBgAIAAoADCA9qO3tDE4nfujt7QxQJ37o7e0MUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQwNWQxMGU4Yy1jYzU5LTU3NjAtODY4Ni0wMTA1NWQyMjA0NjgYACAAKAAwgfajt7QxOLb7o7e0MUC2+6O3tDFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMTVlMGI5ZDgtNjcwYS01MmE0LWEyNGItMTM3N2M0ZWJjNWJjGAAgACgAMIb2o7e0MTjy+6O3tDFA8vujt7QxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}

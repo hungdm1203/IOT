@@ -1,0 +1,53 @@
+/* src/components/SystemControl.css */
+.system-control {
+    /* text-align: center;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: #fff9c4;
+    padding: auto; */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+    background-color: #fff9c4;
+  }
+  
+  .system-control h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .system-icon {
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    border-radius: 50%;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .system-icon.manual {
+    background-color: #4caf50; /* Xanh lá cho trạng thái Điều chỉnh */
+  }
+  
+  .system-icon.auto {
+    background-color: #2196f3; /* Xanh dương cho trạng thái Tự động */
+  }
+  
+  /* button {
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  } */
+  
+  button:hover {
+    background-color: #e68a00;
+  }
+  
